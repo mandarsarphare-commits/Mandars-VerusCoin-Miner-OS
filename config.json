@@ -1,0 +1,7 @@
+{
+  "wallet": "RXB2RKimRUUJuYTFbSD6Z3ia1K2teZSUWJ",
+  "pool": "stratum+tcp://na.luckpool.net:3960",
+  "password": "x",
+  "threads": 2,
+  "algorithm": "verus"
+}

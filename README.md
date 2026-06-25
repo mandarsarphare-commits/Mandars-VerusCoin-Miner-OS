@@ -31,6 +31,33 @@ python dashboard.py
 
 v1.0
 
+## ❤️ Support the Project
+
+If you find **Mandar's VerusCoin Miner OS** useful and would like to support its development, consider donating VerusCoin (VRSC).
+
+### VerusCoin (VRSC)
+
+**Wallet Address**
+```text
+RXB2RKimRUUJuYTFbSD6Z3ia1K2teZSUWJ
+```
+
+Or scan the QR code below:
+
+<p align="center">
+  <img src="docs/vrsc-donation-qr.png" alt="VRSC Donation QR Code" width="220">
+</p>
+
+Your support helps fund:
+- 🚀 New features
+- 🛠️ Bug fixes
+- 📚 Documentation improvements
+- 💻 Long-term maintenance
+
+Thank you for supporting open-source development!
+
+— **Mandar Sarphare**
+
 ## Developer
 
 Mandar Sarphare
